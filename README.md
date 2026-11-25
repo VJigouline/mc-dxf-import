@@ -47,6 +47,7 @@ npm install github:VJigouline/mc-dxf-import
 - [Getting started](Documentation/GettingStarted.md)
 - [API](Documentation/API.md)
 - [Formats and support](Documentation/Support.md)
+- [Using it in SceneEditor](Documentation/SceneEditor.md)
 
 ## Development
 
